@@ -20,8 +20,6 @@ while i <= etages
 	i += 1
 end
 # affiche la pyramide
-puts pyramide
-puts 
 
 #AJ
 
