@@ -1,8 +1,5 @@
 # Programme qui créer une liste de 50 faux emails et les stocker dans une array
 
-# create the array liste_email to store my email adress 
-# part1 and part2 are a string and constant 
-# part3 will be incremented + 1 stop at 50 and covert to a string
 part1 = "jean.dupont."
 part3= "@email.fr"
 
