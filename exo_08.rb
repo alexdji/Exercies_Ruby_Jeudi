@@ -1,4 +1,6 @@
-puts "Bonjour, c'est quoi ton blase ?"
+puts "Bonjour, c'est quoi ton ptit nom ?"
 print "> "
 user_name = gets.chomp
-puts "Bonjour, " + user_name
+puts puts "bonjour #{user_name}!"
+
+#AJ

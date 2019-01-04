@@ -4,4 +4,6 @@ Prénom = gets.chomp
 print "> "
 puts "Ton nom de famille ? "
 Nom_de_famille = gets.chomp
-puts "Bonjour, " + Prénom + " " + Nom_de_famille 
+puts "bonjour #{Prénom} #{Nom_de_famille}!" 
+
+#AJ
