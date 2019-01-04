@@ -1,1 +1,1 @@
-Exercies pour se qualifier à la finale du THP.
+Exercices pour se qualifier à la finale du THP.
